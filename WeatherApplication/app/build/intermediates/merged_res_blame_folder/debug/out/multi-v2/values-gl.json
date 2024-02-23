@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.weatherapplication.app-mergeDebugResources-59:/values-gl/values-gl.xml",
+            "outputFile": "com.example.weatherapplication.app-mergeDebugResources-57:/values-gl/values-gl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ivohe\\.gradle\\caches\\transforms-3\\97b5f65a1b4ff7e43bfb8ef22d97431a\\transformed\\material3-1.1.1\\res\\values-gl\\values-gl.xml",

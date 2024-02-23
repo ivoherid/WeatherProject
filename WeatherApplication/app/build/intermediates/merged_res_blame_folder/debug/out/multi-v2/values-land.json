@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.weatherapplication.app-mergeDebugResources-59:/values-land/values-land.xml",
+            "outputFile": "com.example.weatherapplication.app-mergeDebugResources-57:/values-land/values-land.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ivohe\\.gradle\\caches\\transforms-3\\6bca9e0c29e47b0cd16ec1e12d62807a\\transformed\\appcompat-1.6.1\\res\\values-land\\values-land.xml",
@@ -33,7 +33,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Project\\Android Project\\WeatherApplication\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "source": "D:\\Project\\Android\\WeatherApplication\\app\\src\\main\\res\\values-land\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

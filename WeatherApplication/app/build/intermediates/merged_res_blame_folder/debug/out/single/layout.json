@@ -1,14 +1,6 @@
 [
     {
-        "merged": "com.example.weatherapplication.app-mergeDebugResources-60:/layout/activity_main.xml",
-        "source": "com.example.weatherapplication.app-main-63:/layout/activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-mergeDebugResources-60:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-mergeDebugResources-60:\\layout\\activity_login.xml",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\layout\\activity_login.xml"
+        "merged": "com.example.weatherapplication.app-mergeDebugResources-58:/layout/activity_main.xml",
+        "source": "com.example.weatherapplication.app-main-61:/layout/activity_main.xml"
     }
 ]

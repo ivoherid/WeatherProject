@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.weatherapplication.app-mergeDebugResources-59:/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "com.example.weatherapplication.app-mergeDebugResources-57:/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ivohe\\.gradle\\caches\\transforms-3\\56991579657abc1bbffec6207af617d3\\transformed\\ui-release\\res\\values-en-rIN\\values-en-rIN.xml",

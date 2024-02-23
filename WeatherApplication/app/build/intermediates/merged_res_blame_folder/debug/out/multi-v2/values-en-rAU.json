@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.weatherapplication.app-mergeDebugResources-59:/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "com.example.weatherapplication.app-mergeDebugResources-57:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ivohe\\.gradle\\caches\\transforms-3\\56991579657abc1bbffec6207af617d3\\transformed\\ui-release\\res\\values-en-rAU\\values-en-rAU.xml",

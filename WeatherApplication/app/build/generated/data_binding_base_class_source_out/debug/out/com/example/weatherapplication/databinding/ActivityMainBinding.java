@@ -126,6 +126,9 @@ public final class ActivityMainBinding implements ViewBinding {
   public final TextView tempMin;
 
   @NonNull
+  public final TextView timestamp;
+
+  @NonNull
   public final TextView weatherDetail;
 
   private ActivityMainBinding(@NonNull RelativeLayout rootView, @NonNull TextView DelhiTemp,
@@ -143,7 +146,7 @@ public final class ActivityMainBinding implements ViewBinding {
       @NonNull RelativeLayout maincontainer, @NonNull TextView melbourne, @NonNull TextView mumbai,
       @NonNull TextView newyork, @NonNull LinearLayout overviewcontainer,
       @NonNull TextView singapore, @NonNull TextView sydney, @NonNull TextView tempMax,
-      @NonNull TextView tempMin, @NonNull TextView weatherDetail) {
+      @NonNull TextView tempMin, @NonNull TextView timestamp, @NonNull TextView weatherDetail) {
     this.rootView = rootView;
     this.DelhiTemp = DelhiTemp;
     this.DelhiWeather = DelhiWeather;
@@ -180,6 +183,7 @@ public final class ActivityMainBinding implements ViewBinding {
     this.sydney = sydney;
     this.tempMax = tempMax;
     this.tempMin = tempMin;
+    this.timestamp = timestamp;
     this.weatherDetail = weatherDetail;
   }
 
@@ -420,6 +424,12 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.timestamp;
+      TextView timestamp = ViewBindings.findChildViewById(rootView, id);
+      if (timestamp == null) {
+        break missingId;
+      }
+
       id = R.id.weather_detail;
       TextView weatherDetail = ViewBindings.findChildViewById(rootView, id);
       if (weatherDetail == null) {
@@ -432,7 +442,7 @@ public final class ActivityMainBinding implements ViewBinding {
           countryrow1, countryrow2, currentHumid, currentLocation, currentPressure, currentTemp,
           currentWeather, currentWindSpeed, delhi, detailsContainer, locationcontainer,
           maincontainer, melbourne, mumbai, newyork, overviewcontainer, singapore, sydney, tempMax,
-          tempMin, weatherDetail);
+          tempMin, timestamp, weatherDetail);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

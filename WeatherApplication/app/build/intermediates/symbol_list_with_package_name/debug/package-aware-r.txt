@@ -3405,9 +3405,7 @@ id line3
 id linear
 id listMode
 id list_item
-id loading
 id locationcontainer
-id login
 id m3_side_sheet
 id maincontainer
 id marquee
@@ -3517,7 +3515,6 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
-id password
 id password_toggle
 id path
 id pathRelative
@@ -3637,6 +3634,7 @@ id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
 id time
+id timestamp
 id title
 id titleDividerNoCustom
 id title_template
@@ -3657,7 +3655,6 @@ id uniform
 id unlabeled
 id up
 id useLogo
-id username
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -3794,7 +3791,6 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_login
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item

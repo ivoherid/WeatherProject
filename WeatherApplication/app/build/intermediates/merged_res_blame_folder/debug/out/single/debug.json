@@ -1,114 +1,98 @@
 [
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/layout_activity_main.xml.flat",
+        "source": "com.example.weatherapplication.app-main-61:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\drawable_humidity.png.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\drawable\\humidity.png"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/drawable_sunrise.png.flat",
+        "source": "com.example.weatherapplication.app-main-61:/drawable/sunrise.png"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.weatherapplication.app-main-61:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.weatherapplication.app-main-61:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/drawable_humidity.png.flat",
+        "source": "com.example.weatherapplication.app-main-61:/drawable/humidity.png"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.weatherapplication.app-main-61:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\drawable_sunrise.png.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\drawable\\sunrise.png"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/drawable_wind.png.flat",
+        "source": "com.example.weatherapplication.app-main-61:/drawable/wind.png"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\layout\\activity_main.xml"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/xml_backup_rules.xml.flat",
+        "source": "com.example.weatherapplication.app-main-61:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\xml\\backup_rules.xml"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.weatherapplication.app-main-61:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\drawable_sunset.png.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\drawable\\sunset.png"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/drawable_sunset.png.flat",
+        "source": "com.example.weatherapplication.app-main-61:/drawable/sunset.png"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/drawable_pressure.png.flat",
+        "source": "com.example.weatherapplication.app-main-61:/drawable/pressure.png"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\drawable_wind.png.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\drawable\\wind.png"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.weatherapplication.app-main-61:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\drawable_pressure.png.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\drawable\\pressure.png"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.weatherapplication.app-main-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.weatherapplication.app-main-61:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/drawable_info.png.flat",
+        "source": "com.example.weatherapplication.app-main-61:/drawable/info.png"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.weatherapplication.app-main-61:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/drawable_gradient_bg.xml.flat",
+        "source": "com.example.weatherapplication.app-main-61:/drawable/gradient_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.weatherapplication.app-main-61:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.weatherapplication.app-main-61:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\layout-w1240dp_activity_login.xml.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\layout-w1240dp\\activity_login.xml"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.weatherapplication.app-main-61:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.weatherapplication.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\drawable_info.png.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\drawable\\info.png"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.weatherapplication.app-main-61:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.weatherapplication.app-main-61:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\layout-w936dp_activity_login.xml.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\layout-w936dp\\activity_login.xml"
-    },
-    {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\mipmap-hdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-merged_res-61:\\drawable_gradient_bg.xml.flat",
-        "source": "C:\\Users\\ivohe\\.gradle\\daemon\\8.2\\com.example.weatherapplication.app-main-63:\\drawable\\gradient_bg.xml"
-    },
-    {
-        "merged": "com.example.weatherapplication.app-merged_res-61:/layout_activity_main.xml.flat",
-        "source": "com.example.weatherapplication.app-main-63:/layout/activity_main.xml"
+        "merged": "com.example.weatherapplication.app-merged_res-59:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.weatherapplication.app-main-61:/mipmap-hdpi/ic_launcher.webp"
     }
 ]

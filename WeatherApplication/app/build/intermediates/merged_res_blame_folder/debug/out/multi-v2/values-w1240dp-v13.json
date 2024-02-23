@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.weatherapplication.app-mergeDebugResources-59:/values-w1240dp-v13/values-w1240dp-v13.xml",
+            "outputFile": "com.example.weatherapplication.app-mergeDebugResources-57:/values-w1240dp-v13/values-w1240dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\Project\\Android Project\\WeatherApplication\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
+                    "source": "D:\\Project\\Android\\WeatherApplication\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
